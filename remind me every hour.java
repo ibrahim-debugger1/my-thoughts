@@ -13,7 +13,7 @@ public class Helloo {
 
    
     public static void main(String[] args) throws InterruptedException {
-        JLabel jtp = new JLabel("Hey, move your body");
+        JLabel jtp = new JLabel("Hey, get up");
         jtp.setFont(new Font("Serif", Font.PLAIN, 100));
         jtp.setSize(new Dimension(1000, 1000));
         jtp.setPreferredSize(new Dimension(1000, 1000));
@@ -21,7 +21,7 @@ public class Helloo {
             int currmin=LocalDateTime.now().getMinute();
             int hey=((60-currmin)*60)*1000;
             Thread.sleep(hey);
-            JOptionPane.showMessageDialog(null,jtp,"get up and run for a three min",JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(null,jtp,"get up and move for a five min",JOptionPane.INFORMATION_MESSAGE);
         }
     }
 }
