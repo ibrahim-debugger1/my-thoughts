@@ -7,3 +7,4 @@ Books i want to read :
 3-دليل ادارة خوادم اوبنتو
 4-Cracking the Coding Interview 6th Edition (reading now)
 5-Mastering Regular Expressions_ Understand Your Data and Be More Productive (3rd ed.)
+6-Angular Development with TypeScript
