@@ -2,9 +2,10 @@ Books i read(Done):
 1-Head First PHP and Mysql
 
 Books i want to read :
-1-The docker book 
-2-clean code
-3-دليل ادارة خوادم اوبنتو
-4-Cracking the Coding Interview 6th Edition (reading now)
-5-Mastering Regular Expressions_ Understand Your Data and Be More Productive (3rd ed.)
-6-Angular Development with TypeScript
+1-Object oriented head first
+2-The docker book 
+3-clean code
+4-دليل ادارة خوادم اوبنتو
+5-Cracking the Coding Interview 6th Edition (reading now)
+6-Mastering Regular Expressions_ Understand Your Data and Be More Productive (3rd ed.)
+7-Angular Development with TypeScript
