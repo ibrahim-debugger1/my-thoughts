@@ -9,3 +9,4 @@ Books i want to read :
 5-Cracking the Coding Interview 6th Edition (reading now)
 6-Mastering Regular Expressions_ Understand Your Data and Be More Productive (3rd ed.)
 7-Angular Development with TypeScript
+8-system design interview alex
